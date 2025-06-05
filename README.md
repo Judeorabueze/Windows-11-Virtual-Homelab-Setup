@@ -47,7 +47,11 @@ From the screenshot above, the host system is visualization enabled.
 -	Click on Finish to complete the installation.
 -	Open the installed Oracle virtualBox.
 
+![VirtualBox](https://github.com/Judeorabueze/Windows-11-Virtual-Homelab-Setup/blob/main/Virtualbox%205.png)
 
+Installation is completed and the screenshot above shows that the hypervisor (Oracle VirtualBox) is running smoothly on the host Windows OS. 
+##
+### 3. Installation of a Windows Virtual Machine (Windows 11)
 
 - Downloaded and installed Windows 11 ISO (Enterprise Evaluation)
 - Created a new VM and adjusted settings (EFI, resources)
