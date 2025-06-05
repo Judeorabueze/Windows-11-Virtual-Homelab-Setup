@@ -55,6 +55,7 @@ Installation is completed and the screenshot above shows that the hypervisor (Or
 -	Visit Microsoft Evaluation Center https://www.microsoft.com/en-us/evalcenter 
 -	Select windows 11 Enterprise and click on evaluate now
 
+![Windows 11](https://github.com/Judeorabueze/Windows-11-Virtual-Homelab-Setup/blob/main/Windows%2011.png)
 
 
 - Downloaded and installed Windows 11 ISO (Enterprise Evaluation)
