@@ -42,6 +42,12 @@ From the screenshot above, the host system is visualization enabled.
 -	Missing dependencies box, click on yes
 -	Follow the installation prompts, click yes on ready for installation and allow for the installation to be completed.
 
+![VirtualBox](https://github.com/Judeorabueze/Windows-11-Virtual-Homelab-Setup/blob/main/Virtualbox%204a.png)
+
+-	Click on Finish to complete the installation.
+-	Open the installed Oracle virtualBox.
+
+
 
 - Downloaded and installed Windows 11 ISO (Enterprise Evaluation)
 - Created a new VM and adjusted settings (EFI, resources)
