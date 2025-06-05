@@ -52,6 +52,10 @@ From the screenshot above, the host system is visualization enabled.
 Installation is completed and the screenshot above shows that the hypervisor (Oracle VirtualBox) is running smoothly on the host Windows OS. 
 ##
 ### 3. Installation of a Windows Virtual Machine (Windows 11)
+-	Visit Microsoft Evaluation Center https://www.microsoft.com/en-us/evalcenter 
+-	Select windows 11 Enterprise and click on evaluate now
+
+
 
 - Downloaded and installed Windows 11 ISO (Enterprise Evaluation)
 - Created a new VM and adjusted settings (EFI, resources)
@@ -60,11 +64,6 @@ Installation is completed and the screenshot above shows that the hypervisor (Or
 - Installed VirtualBox Guest Additions for improved VM integration
 - Took and restored VM snapshots as a backup solution
 
-## Screenshots
-![Virtualization Enabled](screenshot1.png)  
-![VirtualBox Installed](screenshot2.png)  
-![Windows 11 Running on VM](screenshot3.png)  
-![Snapshot Taken](screenshot4.png)
 
 ## Lessons Learned
 - Gained hands-on experience with BIOS configuration and virtualization setup  
