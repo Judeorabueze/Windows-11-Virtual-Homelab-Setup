@@ -16,11 +16,15 @@ This project demonstrates how to set up a Virtual Home Lab using Oracle VirtualB
    -	Navigate to the task manager.
    -	Click on performance and then CPU.
 
-![Image](https://github.com/Judeorabueze/Windows-11-Virtual-Homelab-Setup/blob/main/Visualization%20enabled.jpg)
+![Virtualization Enabled](https://github.com/Judeorabueze/Windows-11-Virtual-Homelab-Setup/blob/main/Visualization%20enabled.jpg)
 
 From the screenshot above, the host system is visualization enabled.
+##
+### 2. Download and Install a VirtualBox
+-	Visit https://www.virtualbox.org/wiki/Downloads
+-	Select the appropriate VirtualBox platform package (In this case, Windows) 
+-	Click the host (Windows) and allow to download.
 
-### Download and Install a VirtualBox
 - Downloaded and installed Windows 11 ISO (Enterprise Evaluation)
 - Created a new VM and adjusted settings (EFI, resources)
 - Installed and configured Windows 11 in the VM
