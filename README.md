@@ -11,14 +11,16 @@ This project demonstrates how to set up a Virtual Home Lab using Oracle VirtualB
 ## What I Did
 ### 1. Enable System Visualization ( Host – Windows system )
   To run VirtualBox (type 2 hypervisor) effectively, virtualization technology (VT-x or AMD-V) must be enabled in the host machine BIOS/UEFI settings.
-- Check if the host system is visualization enabled:
+- Ensure the host system is visualization enabled:
    -	Right click on the task bar of the the host machine.
    -	Navigate to the task manager.
    -	Click on performance and then CPU.
 
-![Image](https://github.com/user-attachments/assets/9fc86f4c-73de-4934-a3a5-249766e840af)
+![Image](https://github.com/Judeorabueze/Windows-11-Virtual-Homelab-Setup/blob/main/Visualization%20enabled.jpg)
 
-- Installed Oracle VirtualBox on a Windows host
+From the screenshot above, the host system is visualization enabled.
+
+### Download and Install a VirtualBox
 - Downloaded and installed Windows 11 ISO (Enterprise Evaluation)
 - Created a new VM and adjusted settings (EFI, resources)
 - Installed and configured Windows 11 in the VM
