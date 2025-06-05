@@ -16,6 +16,7 @@ This project demonstrates how to set up a Virtual Home Lab using Oracle VirtualB
    -	Navigate to the task manager.
    -	Click on performance and then CPU.
 
+![Image](https://github.com/user-attachments/assets/9fc86f4c-73de-4934-a3a5-249766e840af)
 
 - Installed Oracle VirtualBox on a Windows host
 - Downloaded and installed Windows 11 ISO (Enterprise Evaluation)
