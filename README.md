@@ -108,6 +108,12 @@ Windows 11 ISO has been added to VirtualBox and is visible on the left "New grou
 -	Choose your password
 -	Confirm your password
 
+![VM](https://github.com/Judeorabueze/Windows-11-Virtual-Homelab-Setup/blob/main/VM%2015.png)
+
+-	Add and answer secret questions
+-	Choose and select privacy settings and click on next (In my case, I selected no to all the options)
+-	Allow some time for the installation of Windows 11 to complete including some updates if any.
+-	Sign in at the completion of the installation.
 
 
 - Created a new VM and adjusted settings (EFI, resources)
