@@ -96,6 +96,13 @@ Windows 11 ISO has been added to VirtualBox and is visible on the left "New grou
 
 -	Select Language setting and click on next.
 
+![vm](https://github.com/Judeorabueze/Windows-11-Virtual-Homelab-Setup/blob/main/Windows%2013.png)
+
+-	Select setup options (install Windows 11), agree on everything and click on next.
+-	Agree on terms, click on next
+-	On ready to install, click install.
+
+   
 - Created a new VM and adjusted settings (EFI, resources)
 - Enabled drag & drop and clipboard sharing
 - Installed VirtualBox Guest Additions for improved VM integration
