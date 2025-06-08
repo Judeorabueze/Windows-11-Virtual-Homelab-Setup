@@ -51,7 +51,7 @@ From the screenshot above, the host system is visualization enabled.
 
 Installation is completed and the screenshot above shows that the hypervisor (Oracle VirtualBox) is running smoothly on the host Windows OS. 
 ##
-### 3. Installation of a Windows Virtual Machine (Windows 11)
+### 3. Download Windows 11 ISO 
 -	Visit Microsoft Evaluation Center https://www.microsoft.com/en-us/evalcenter 
 -	Select windows 11 Enterprise and click on evaluate now
 
@@ -64,7 +64,15 @@ Installation is completed and the screenshot above shows that the hypervisor (Or
   (In my case, English (United States) ; 64-bit version was selected)
 - Click on download.
 
-- Downloaded and installed Windows 11 ISO (Enterprise Evaluation)
+![Windows 11](https://github.com/Judeorabueze/Windows-11-Virtual-Homelab-Setup/blob/main/Windows%2011B.PNG)
+
+Allow some minutes or hours to complete the download.
+##
+### 4. Install Windows ISO in Oracle VirtualBox
+-	Open the VirtualBox, on the tools section click on new and give a name (Windows 11) to the Virtual Machine to be installed.  
+-	Specify the folder for the vm ( VirtualBox vms)
+-	On ISO Image, click other and select the windows 11 file that was downloaded
+
 - Created a new VM and adjusted settings (EFI, resources)
 - Installed and configured Windows 11 in the VM
 - Enabled drag & drop and clipboard sharing
