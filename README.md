@@ -80,6 +80,11 @@ Allow some minutes or hours to complete the download.
 -	Allocate resources for the VM and click on next. (For better experience it is recommended to increase the default depending on the available resources In the computer.
 
 
+-	Check the Enable EFI box ( This is important because VirtualBox does not have Secure Boot enabled by default which is required by Windows 11)
+Failure to check this may cause the windows11 not to install
+-	Leave the Hard Disc setting on default and click on finish.
+
+
 - Created a new VM and adjusted settings (EFI, resources)
 - Installed and configured Windows 11 in the VM
 - Enabled drag & drop and clipboard sharing
