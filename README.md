@@ -57,6 +57,12 @@ Installation is completed and the screenshot above shows that the hypervisor (Or
 
 ![Windows 11](https://github.com/Judeorabueze/Windows-11-Virtual-Homelab-Setup/blob/main/Windows%2011.png)
 
+-	Click on Download the ISO - Window 11 enterprise
+  (NOTE: This is an evaluation version and may be free to use for a period of 90days and may have some limitations)
+- Complete the Free Trial form and click download.
+- Select the appropriate Windows 11 Enterprise and Language
+  (In my case, English (United States) ; 64-bit version was selected)
+- Click on download.
 
 - Downloaded and installed Windows 11 ISO (Enterprise Evaluation)
 - Created a new VM and adjusted settings (EFI, resources)
