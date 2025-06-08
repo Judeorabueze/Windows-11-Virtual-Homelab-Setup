@@ -74,7 +74,7 @@ Allow some minutes or hours to complete the download.
 -	Specify the folder (path) for the VirtualBox ( ...user\VirtualBox VMs)
 -	On ISO Image, click other and select the windows 11 file that was downloaded
 
-
+![VM](https://github.com/Judeorabueze/Windows-11-Virtual-Homelab-Setup/blob/main/VM%201.PNG)
 
 -	Click on Skip unattended installation and click next
 -	Allocate resources for the VM and click on next. (For better experience it is recommended to increase the default depending on the available resources In the computer.
