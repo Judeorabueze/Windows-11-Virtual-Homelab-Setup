@@ -79,6 +79,7 @@ Allow some minutes or hours to complete the download.
 -	Click on Skip unattended installation and click next
 -	Allocate resources for the VM and click on next. (For better experience it is recommended to increase the default depending on the available resources In the computer.
 
+![VM](https://github.com/Judeorabueze/Windows-11-Virtual-Homelab-Setup/blob/main/VM2.png)
 
 -	Check the Enable EFI box ( This is important because VirtualBox does not have Secure Boot enabled by default which is required by Windows 11)
 Failure to check this may cause the windows11 not to install
