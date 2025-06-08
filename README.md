@@ -115,7 +115,12 @@ Windows 11 ISO has been added to VirtualBox and is visible on the left "New grou
 -	Allow some time for the installation of Windows 11 to complete including some updates if any.
 -	Sign in at the completion of the installation.
 
+![Windows VM](https://github.com/Judeorabueze/Windows-11-Virtual-Homelab-Setup/blob/main/VM%2016.png)
 
+Windows 11 Virtual Machine installation is completed.
+-	Ensure Bidirectional is enabled on the VM’s device Drag and Drop as well as on the device shared clipboard.
+
+  
 - Created a new VM and adjusted settings (EFI, resources)
 - Enabled drag & drop and clipboard sharing
 - Installed VirtualBox Guest Additions for improved VM integration
