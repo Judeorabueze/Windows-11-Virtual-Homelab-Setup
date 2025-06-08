@@ -69,9 +69,16 @@ Installation is completed and the screenshot above shows that the hypervisor (Or
 Allow some minutes or hours to complete the download.
 ##
 ### 4. Install Windows ISO in Oracle VirtualBox
--	Open the VirtualBox, on the tools section click on new and give a name (Windows 11) to the Virtual Machine to be installed.  
--	Specify the folder for the vm ( VirtualBox vms)
+-	Open the VirtualBox already installed in the host machine
+-	On the tools section, click on new and give a name to the Virtual Machine to be installed. (In my case, Windows 11. You can give yours a different name)
+-	Specify the folder (path) for the VirtualBox ( ...user\VirtualBox VMs)
 -	On ISO Image, click other and select the windows 11 file that was downloaded
+
+
+
+-	Click on Skip unattended installation and click next
+-	Allocate resources for the VM and click on next. (For better experience it is recommended to increase the default depending on the available resources In the computer.
+
 
 - Created a new VM and adjusted settings (EFI, resources)
 - Installed and configured Windows 11 in the VM
