@@ -102,7 +102,7 @@ Windows 11 ISO has been added to VirtualBox and is visible on the left "New grou
 -	Agree on terms, click on next
 -	On ready to install, click install.
 
-   
+![VM]
 - Created a new VM and adjusted settings (EFI, resources)
 - Enabled drag & drop and clipboard sharing
 - Installed VirtualBox Guest Additions for improved VM integration
