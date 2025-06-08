@@ -92,6 +92,9 @@ Windows 11 ISO has been added to VirtualBox and is visible on the left "New grou
 -	Press any key to boot the Windows 11 Virtual machine.
 -	Select Language and continue.
 
+![vm](https://github.com/Judeorabueze/Windows-11-Virtual-Homelab-Setup/blob/main/windows%2012.png)
+
+-	Select Language setting and click on next.
 
 - Created a new VM and adjusted settings (EFI, resources)
 - Enabled drag & drop and clipboard sharing
