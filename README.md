@@ -119,16 +119,11 @@ Windows 11 ISO has been added to VirtualBox and is visible on the left "New grou
 
 Windows 11 Virtual Machine installation is completed.
 -	Ensure Bidirectional is enabled on the VM’s device Drag and Drop as well as on the device shared clipboard.
-
-  
-- Created a new VM and adjusted settings (EFI, resources)
-- Enabled drag & drop and clipboard sharing
-- Installed VirtualBox Guest Additions for improved VM integration
-- Took and restored VM snapshots as a backup solution
-
+-	Take a snapshot of the Windows 11 VM (Recommended).
+Snapshot works like a backup such that you can easily go back the this VM state should your current VM is messed up or something.
 
 ## Lessons Learned
-- Gained hands-on experience with BIOS configuration and virtualization setup  
+- Gained hands-on experience with virtualization setup  
 - Understood the installation and configuration process for VirtualBox and Windows 11  
 - Learned how to manage VM snapshots for quick recovery  
 - Improved virtual lab management skills for future cybersecurity or IT training  
