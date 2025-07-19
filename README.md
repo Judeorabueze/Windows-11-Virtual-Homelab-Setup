@@ -21,7 +21,7 @@ This project demonstrates how to set up a Virtual Home Lab using Oracle VirtualB
 From the screenshot above, the host system is visualization enabled.
 ##
 ### 2. Download and Install a VirtualBox
--	Visit https://www.virtualbox.org/wiki/Downloads or [VirtualBox Official Website]<a href="https://www.virtualbox.org/wiki/Downloads" target="_blank">View on GitHub</a>
+-	Visit https://www.virtualbox.org/wiki/Downloads or [VirtualBox Official Website](<a href="https://www.virtualbox.org/wiki/Downloads" target="_blank">View on GitHub</a>)
 
 -	Select the appropriate VirtualBox platform package (In this case, Windows) 
 -	Click the host (Windows) and allow to download.
