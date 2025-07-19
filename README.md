@@ -8,7 +8,7 @@ This project demonstrates how to set up a Virtual Home Lab using Oracle VirtualB
 - Windows 11 ISO (Evaluation Edition)
 - Host Machine (Windows OS with virtualization support)
 
-## What I Did
+##  Project Approach
 ### 1. Enable System Visualization ( Host – Windows system )
   To run VirtualBox (type 2 hypervisor) effectively, virtualization technology (VT-x or AMD-V) must be enabled in the host machine BIOS/UEFI settings.
 - Ensure the host system is visualization enabled:
